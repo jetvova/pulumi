@@ -10,6 +10,9 @@
   `ResourceInput` values.
   [#7584](https://github.com/pulumi/pulumi/pull/7584)
 
+- [sdk/{go,dotnet}] - Admit non-asset/archive values when unmarshaling into assets and archives.
+  [#7579](https://github.com/pulumi/pulumi/pull/7579)
+
 ### Bug Fixes
 
 - [sdk/go] - Fix target and replace options for the Automation API
